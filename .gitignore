@@ -1,0 +1,7 @@
+.DS_Store
+ci_leedition/application/cache/*
+!ci_leedition/application/cache/index.html
+!ci_leedition/application/cache/.htaccess
+ci_leedition/application/logs/*
+!ci_leedition/application/logs/index.html
+!ci_leedition/application/logs/.htaccess
