@@ -118,7 +118,7 @@ p.footer{
     display: block;
     padding-left: 6px;
     border-top:#eee solid 1px;
-    background-color: #AEE0F3;
+    background-color: #E9E9E9;
 }
 
 .sidebar-text .sidebar-list li a {
@@ -140,6 +140,6 @@ p.footer{
     font-size: 15px;
     cursor: pointer;
     color:white;
-    background-color:#0B758F;
+    background-color:#BEBEBE;
     font-weight:bold;
 }
