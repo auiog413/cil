@@ -8,6 +8,7 @@ and open the template in the editor.
     Author     : auioh413
 */
 
+/* 背景色 */
 .bg-aliceblue {background-color:#F0F8FF;}
 .bg-antiquewhite {background-color:#FAEBD7;}
 .bg-aqua {background-color:#00FFFF;}
@@ -151,6 +152,42 @@ and open the template in the editor.
 .bg-whitesmoke {background-color:#F5F5F5;}
 .bg-yellow {background-color:#FFFF00;}
 .bg-yellowgree {background-color:#9ACD32;}
+
+/* 图片背景 */
+.bg-img-01 {background:url() repeat;}
+.bg-img-02 {background:url() repeat;}
+.bg-img-03 {background:url() repeat;}
+.bg-img-04 {background:url() repeat;}
+.bg-img-05 {background:url() repeat;}
+.bg-img-06 {background:url() repeat;}
+.bg-img-07 {background:url() repeat;}
+.bg-img-08 {background:url() repeat;}
+.bg-img-09 {background:url() repeat;}
+.bg-img-10 {background:url() repeat;}
+.bg-img-11 {background:url() repeat;}
+.bg-img-12 {background:url() repeat;}
+.bg-img-13 {background:url() repeat;}
+.bg-img-14 {background:url() repeat;}
+.bg-img-15 {background:url() repeat;}
+.bg-img-16 {background:url() repeat;}
+.bg-img-17 {background:url() repeat;}
+.bg-img-18 {background:url() repeat;}
+.bg-img-19 {background:url() repeat;}
+.bg-img-20 {background:url() repeat;}
+.bg-img-21 {background:url() repeat;}
+.bg-img-22 {background:url() repeat;}
+.bg-img-23 {background:url() repeat;}
+.bg-img-24 {background:url() repeat;}
+.bg-img-25 {background:url() repeat;}
+.bg-img-26 {background:url() repeat;}
+.bg-img-27 {background:url() repeat;}
+.bg-img-28 {background:url() repeat;}
+.bg-img-29 {background:url() repeat;}
+.bg-img-30 {background:url() repeat;}
+.bg-img-31 {background:url() repeat;}
+.bg-img-32 {background:url() repeat;}
+
+/* 前景色 */
 .fg-aliceblue {background-color:#F0F8FF;}
 .fg-antiquewhite {background-color:#FAEBD7;}
 .fg-aqua {background-color:#00FFFF;}
